@@ -1752,21 +1752,9 @@
         <item name="android:shadowDy">-3.5</item>
         <item name="android:shadowRadius">2</item>
     </style></file><file path="/home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/res/values/strings.xml" qualifiers=""><string name="description">
-        Tap the button below to send a notification.\n\nThe notification\'s icon will immediately
-        appear in the notification bar. Drag the notification bar open to see the full
-        notification. Depending on which version of Android you\'re running, the full
-        notification will display an icon and two or three lines of text.
-        \n\nTap the notification to execute the notification\'s \"action,\" which is an intent
-        that we associate with the notification when it\'s created. This sample notification\'s
-        action is to send a browse intent with the url of the Notification docs on
-        developer.android.com.
-        \n\nThis sample uses the NotificationCompat API for maximum compatibility with versions
-        of Android from Froyo (Android 2.2) to the present. Try it on devices or AVDs that are
-        running different versions of Android. You\'ll see that while the presentation varies
-        slightly, the basic functionality is the same. NotificationCompat automatically takes
-        advantage of the expanded notification format in newer versions of Android, and
-        falls back gracefully to a reduced set of functionality on earlier versions.
-    </string></file><file name="ic_stat_notification" path="/home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/res/drawable-mdpi-v11/ic_stat_notification.png" qualifiers="mdpi-v11" type="drawable"/><file name="ic_stat_notification" path="/home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/res/drawable-xhdpi-v11/ic_stat_notification.png" qualifiers="xhdpi-v11" type="drawable"/><file name="ic_launcher" path="/home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="sample_layout" path="/home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/res/layout/sample_layout.xml" qualifiers="" type="layout"/><file path="/home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/res/values-sw600dp/template-dimens.xml" qualifiers="sw600dp-v13"><dimen name="horizontal_page_margin">@dimen/margin_huge</dimen><dimen name="vertical_page_margin">@dimen/margin_medium</dimen></file><file path="/home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/res/values-sw600dp/template-styles.xml" qualifiers="sw600dp-v13"><style name="Widget.SampleMessage">
+        Toque no botão abaixo para enviar uma notificação.\n\nO ícone da notificação aparecerá imediatamente na barra de
+        notificação. Arraste a barra de notificação para ver o conteúdo completo da notificação.
+    </string><string name="btn_enviar">Enviar</string></file><file name="ic_stat_notification" path="/home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/res/drawable-mdpi-v11/ic_stat_notification.png" qualifiers="mdpi-v11" type="drawable"/><file name="ic_stat_notification" path="/home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/res/drawable-xhdpi-v11/ic_stat_notification.png" qualifiers="xhdpi-v11" type="drawable"/><file name="ic_launcher" path="/home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="sample_layout" path="/home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/res/layout/sample_layout.xml" qualifiers="" type="layout"/><file path="/home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/res/values-sw600dp/template-dimens.xml" qualifiers="sw600dp-v13"><dimen name="horizontal_page_margin">@dimen/margin_huge</dimen><dimen name="vertical_page_margin">@dimen/margin_medium</dimen></file><file path="/home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/res/values-sw600dp/template-styles.xml" qualifiers="sw600dp-v13"><style name="Widget.SampleMessage">
         <item name="android:textAppearance">?android:textAppearanceLarge</item>
         <item name="android:lineSpacingMultiplier">1.2</item>
         <item name="android:shadowDy">-6.5</item>
