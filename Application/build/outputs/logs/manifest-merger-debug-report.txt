@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/6ddc1082b84216d353e3e26b7783d94c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/0b86fb535e912ab818454d5ce8107b9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/79bebbc5849719d35429dcfaf44d2dd4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d2573f7b9d2451446c073b4eea912e46/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/52c59fcec0af608a1deb45d3ad8cd942/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/8cb3c3472743e5b270bfe5c9e2f225ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/e6170c0227e76fe0a48a824a2c29195f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/97a31bc28d87edf69b1fb4d20eb51ea1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/b4d5c312b41ac4bb4a69698b044b2010/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/54ad4c7b3c2cdb4e15aa3c50eded16b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/b205a58c6b27c912ffd59b8376ba97a6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/jovennan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/508ec3cf291f8de16c6b092abab5e11a/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:19:5-53
+	android:versionName
+		ADDED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:21:5-30
+		INJECTED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:20:5-28
+		INJECTED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml
+application
+ADDED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:25:5-38:19
+	android:label
+		ADDED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:27:9-45
+	android:allowBackup
+		ADDED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:29:9-40
+activity#com.example.android.basicnotifications.MainActivity
+ADDED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:30:9-37:20
+	android:label
+		ADDED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:31:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml
+INJECTED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/6ddc1082b84216d353e3e26b7783d94c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/6ddc1082b84216d353e3e26b7783d94c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/0b86fb535e912ab818454d5ce8107b9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.0.2.aar/0b86fb535e912ab818454d5ce8107b9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/79bebbc5849719d35429dcfaf44d2dd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/79bebbc5849719d35429dcfaf44d2dd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d2573f7b9d2451446c073b4eea912e46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d2573f7b9d2451446c073b4eea912e46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/52c59fcec0af608a1deb45d3ad8cd942/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/52c59fcec0af608a1deb45d3ad8cd942/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/8cb3c3472743e5b270bfe5c9e2f225ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/8cb3c3472743e5b270bfe5c9e2f225ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/e6170c0227e76fe0a48a824a2c29195f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/e6170c0227e76fe0a48a824a2c29195f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/97a31bc28d87edf69b1fb4d20eb51ea1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/97a31bc28d87edf69b1fb4d20eb51ea1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/b4d5c312b41ac4bb4a69698b044b2010/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/b4d5c312b41ac4bb4a69698b044b2010/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/54ad4c7b3c2cdb4e15aa3c50eded16b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/54ad4c7b3c2cdb4e15aa3c50eded16b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/b205a58c6b27c912ffd59b8376ba97a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/jovennan/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/b205a58c6b27c912ffd59b8376ba97a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/jovennan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/508ec3cf291f8de16c6b092abab5e11a/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/jovennan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/508ec3cf291f8de16c6b092abab5e11a/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml
+INJECTED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml
+		ADDED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml
+		ADDED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/jovennan/workspace/AndroidStudioProjects/BasicNotificationsWear/Application/src/main/AndroidManifest.xml
